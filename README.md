@@ -1,1 +1,1 @@
-Mini project for IT321
+Javascript Mini project for IT321
