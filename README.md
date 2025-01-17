@@ -1,5 +1,1 @@
-Hello WORLD!
-
-This has been edited.
-
-second edit.
+Mini project for IT321
